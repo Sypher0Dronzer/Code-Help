@@ -115,7 +115,7 @@ p {
   left: 0;
   border-radius: 50%;
   background: #dd00b8;
-  filter: blur(150px);
+  filter: blur(200px);
   width: 20vmax;
   min-width: 100px;
   min-height: 100px;
@@ -127,7 +127,7 @@ p {
   right: 0;
   border-radius: 50%;
   background: #030fed;
-  filter: blur(150px);
+  filter: blur(200px);
   width: 20vmax;
   min-width: 100px;
   min-height: 100px;
