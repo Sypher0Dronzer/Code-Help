@@ -85,7 +85,8 @@ body {
   cursor: pointer;
 
   background: linear-gradient(41deg, rgb(45, 6, 242) 0%, rgb(211, 3, 180) 100%);
-  clip-path: polygon(9% 0, 100% 0%, 91% 98%, 0% 100%);
+  clip-path: polygon(8% 0, 100% 0%, 92% 100%, 0% 100%);
+
   transition: all ease 0.5s;
 }
 .btn:hover{
